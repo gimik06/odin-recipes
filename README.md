@@ -1,4 +1,3 @@
-This is the first of many projects that I will be doing as I go through The Odin Project
-curriculum. 
+This is the first of many projects that I will be doing as I go through The Odin Project.
 
-This simple recipe website will demostrate the very basics of html coding.
+This website will demostrate the basics of html code such as adding headings, paragraphs, links, and images.
