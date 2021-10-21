@@ -1,0 +1,22 @@
+.heading {
+    background-color: red;
+    text-align: center;
+}
+
+.body {
+    font-size: 20px;
+}
+
+.body.one {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.body.two {
+    font-style: italic;
+    text-align-last: center;
+}
+
+.body.three {
+    font-weight: bold;
+    text-align: end;
+}
